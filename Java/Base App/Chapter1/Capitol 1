@@ -1,0 +1,23 @@
+ Ways to read data from the keyboard in java:
+ 
+First.       InputStreamReader Class
+Second.       Scanner Class
+Third.       Using Command Line Arguments
+Fifth.       Console Class  
+
+
+==First== 
+
+InputStreamReader class can be used to read data from keyboard for two reasons:
+
+ I.     Connect to input stream of keyboard
+
+ II.    It’s helpful for converting byte-oriented stream to character-oriented stream. 
+
+BufferedReader class can be used to read data line by line using its readLine () method.
+
+==Second==
+
+The java.util.Scanner class breaks the input into tokens using delimiter (i.e. Whitespace (By Default)). 
+Its provide various methods to read and parse the various primitive values.
+Scanner class is used to parse text for string and primitive types using regular expressions.
