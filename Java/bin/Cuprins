@@ -5,4 +5,10 @@
 5. compare xml files 
 6. compare json files
 7. work with strins ( contain caps letter, check rules)
-8.
+   a)  Se introduce un string 
+       Se verifica cate litere mari are , cate numere si cate caractere speciale
+
+   b)  Se introduce un string 
+       Se verfica daca este poliandru
+
+    
