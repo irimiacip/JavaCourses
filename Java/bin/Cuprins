@@ -1,10 +1,10 @@
-1. read data from keyboard
-2. create files ( xml, json,....
-3. read files ( xml, json,
-4. connect to db
-5. compare xml files 
-6. compare json files
-7. work with strins ( contain caps letter, check rules)
+Chapter 1. read data from keyboard
+Chapter 2. create files ( xml, json,....
+Chapter 3. read files ( xml, json,
+Chapter 4. connect to db
+Chapter 5. compare xml files 
+Chapter 6. compare json files
+Chapter 7. work with strins ( contain caps letter, check rules)
    a)  Se introduce un string 
        Se verifica cate litere mari are , cate numere si cate caractere speciale
 
